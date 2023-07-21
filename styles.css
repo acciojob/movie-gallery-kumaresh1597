@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.fluid{
+
+}
+img{
+	height: 100px;
+}
+.first{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;	
+	flex-wrap: wrap;
+}
